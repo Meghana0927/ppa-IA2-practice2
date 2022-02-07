@@ -1,1 +1,15 @@
-
+ gcc p2original.c
+ ./a.out
+Enter the length of sides of the triangle:
+3
+8
+5
+The triangle is scalene
+ 
+ gcc p2original.c
+ ./a.out
+Enter the length of sides of the triangle:
+6
+6
+3.5
+The triangle is not scalene
